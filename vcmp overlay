@@ -1,0 +1,29 @@
+########################################################################
+#         ______                _____  _____                           # 
+#        |  ____|              |  __ \|  __ \                          #
+#        | |__   __ _ ___ _   _| |__) | |__) |                         #
+#        |  __| / _` / __| | | |  _  /|  ___/                          # 
+#        | |___| (_| \__ \ |_| | | \ \| |                              # 
+#        |______\__,_|___/\__, |_|  \_\_|                              #
+#                          __/ |                                       #  
+#                         |___/                                        #  
+#                                                                      #
+# Optional Settings: SmallImage, LargeImageTooltip, SmallImageTooltip  #
+#     *ALL OTHERS ARE REQUIRED*                                        #
+#                                                                      #   
+#  https://github.com/Pizzabelly/EasyRP                                # 
+########################################################################
+
+
+[Identifiers]
+ClientID=454794969107005459
+
+[State]
+State=Playing
+Details=Finding a server
+
+[Images]
+LargeImage=ac_large
+SmallImage=ac
+LargeImageTooltip=
+SmallImageTooltip=
